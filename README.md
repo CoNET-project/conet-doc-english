@@ -19,7 +19,3 @@ Thanks to the decentralized distributed technology architecture, blockchain offe
 People have pinned their hopes on using blockchain technology to transform the internet, giving rise to the concept of Web3. Blockchain technology has its disadvantages compared to the internet, notably its known and expensive data storage. Achieving high-speed, high-throughput data exchange, similar to the internet, is currently deemed impossible with blockchain.
 
 CONET aims to leverage existing internet infrastructure, integrate decentralized blockchain technology, and establish a privacy and security-focused underlying network infrastructure. The goal is to achieve internet-level high speed and throughput while overcoming the technical constraints and privacy infringements of the current internet.
-
-\
-
-
