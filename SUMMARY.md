@@ -32,6 +32,7 @@
       * [Features](core-technology/point-to-point-encrypted-communication-protocol/layer-minus-protocol/features.md)
 * [Token Economic Model](token-economic-model/README.md)
   * [$CONET](token-economic-model/usdconet.md)
+  * [CONET Consensus Protocol](token-economic-model/conet-consensus-protocol.md)
 * [Web2 Bridging](web2-bridging.md)
 * [User Case](user-case.md)
 * [Resource](resource.md)
