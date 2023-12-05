@@ -17,3 +17,4 @@ Linear releases for the team, early investors, and the foundation prevent sudden
 
 **Token Distribution**
 
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
