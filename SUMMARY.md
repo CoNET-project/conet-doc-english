@@ -29,6 +29,7 @@
       * [Internet Privacy Communication Solutions](core-technology/point-to-point-encrypted-communication-protocol/internet-protocol/internet-privacy-communication-solutions.md)
     * [Layer Minus Protocol](core-technology/point-to-point-encrypted-communication-protocol/layer-minus-protocol/README.md)
       * [Layer Minus](core-technology/point-to-point-encrypted-communication-protocol/layer-minus-protocol/layer-minus.md)
+      * [Privacy Threats of the Layer Minus Protocol](core-technology/point-to-point-encrypted-communication-protocol/layer-minus-protocol/privacy-threats-of-the-layer-minus-protocol.md)
   * [Decentralized Private Network DCPN](core-technology/decentralized-private-network-dcpn/README.md)
     * [Decentralized Physical Infrastructure Network](core-technology/decentralized-private-network-dcpn/decentralized-physical-infrastructure-network.md)
     * [Features](core-technology/decentralized-private-network-dcpn/features.md)
