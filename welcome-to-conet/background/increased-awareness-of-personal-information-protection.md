@@ -1,4 +1,4 @@
-# INCREASED AWARENESS OF PERSONAL INFORMATION PROTECTION
+# Increased Awareness Of Personal Information Protection
 
 According to McKinsey's survey, 71% of respondents indicated that if a company were to disclose sensitive information without permission, they would cease doing business with that company. Technology companies have introduced "End-to-End Encryption" (E2EE) solutions. End-to-end encryption encrypts data during transmission, allowing only the users participating in the communication system to read the messages. Even the service provider cannot obtain the encryption keys required to decrypt the information.
 

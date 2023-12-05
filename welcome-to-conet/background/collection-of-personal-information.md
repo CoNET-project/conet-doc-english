@@ -1,4 +1,4 @@
-# COLLECTION OF PERSONAL INFORMATION
+# Collection Of Personal Information
 
 "Every computer, mobile phone, and other devices connected to the Internet has a unique IP address, providing a unique identifier for each device. This means that any device can be traced, posing new significant challenges to privacy protection.
 

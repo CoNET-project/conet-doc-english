@@ -1,4 +1,4 @@
-# PERSONAL INFORMATION
+# Personal Information
 
 Technological advancements have brought forth tools for collecting and interpreting various types of information, making possible what was once considered impossible or difficult to achieve. For instance, the role of DNA in genetics was confirmed in the 1950s. Today, advancements in genetic science enable scientists to extract DNA from smaller samples and determine more characteristics based on an individual's DNA. Digital storage of DNA plays a significant role in solving crimes, helping to apprehend the true culprits in many unsolved cases and exonerating wrongfully convicted individuals.
 

@@ -1,4 +1,4 @@
-# NEW BUSINESS OPPORTUNITIES
+# New Business Opportunities
 
 The internet has given rise to a significant amount of economic activity. McKinsey & Company's research predicts that the direct and indirect economic effects of the internet account for 3.4% of the total GDP in 13 studied countries. In five mature economies, it contributes to 21% of economic growth, with 2.6 jobs created for every job eliminated. Internet companies, such as Google and Facebook, possess astronomical amounts of user data. The largest internet companies have massive user bases, with Facebook having over a billion users. These companies continuously expand their services, allowing users to utilize online searches, send emails, display videos, and engage in shopping, among other activities. Many of these services are offered for free, and their business models rely on collecting user information for marketing purposes, making user data economically valuable.
 

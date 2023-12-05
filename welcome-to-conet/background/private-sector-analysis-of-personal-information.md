@@ -1,4 +1,4 @@
-# PRIVATE SECTOR ANALYSIS OF PERSONAL INFORMATION
+# Private Sector Analysis Of Personal Information
 
 The increasing computing capacity means that a vast amount of information can be collected, stored, organized, and analyzed at low cost and high efficiency once gathered. Technological advancements allow information databases to interconnect, enabling larger-scale data processing. As technology converges, the potential for privacy infringement grows exponentially. For instance, linking facial recognition databases (such as those used on Facebook) with surveillance cameras allows unprecedented tracking of personal information. A common practice is merging and integrating databases from different sources, inevitably generating privacy issues when combining data between sources like tax records and health data or property data and social security information. Furthermore, personal data can be extracted from various technologies and matched with publicly available data, creating a detailed personal profile.
 
