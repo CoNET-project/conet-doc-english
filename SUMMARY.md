@@ -29,3 +29,5 @@
       * [Internet Privacy Communication Solutions](core-technology/point-to-point-encrypted-communication-protocol/internet-protocol/internet-privacy-communication-solutions.md)
     * [Layer Minus Protocol](core-technology/point-to-point-encrypted-communication-protocol/layer-minus-protocol.md)
 * [Web2 Bridging](web2-bridging.md)
+* [User Case](user-case.md)
+* [Resource](resource.md)

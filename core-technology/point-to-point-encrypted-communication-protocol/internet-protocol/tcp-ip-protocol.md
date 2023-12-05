@@ -6,7 +6,7 @@ description: Computers communicate by uniquely identifying TCP/IP addresses
 
 TCP/IP provides a point-to-point connection mechanism that standardizes how data should be encapsulated, addressed, transmitted, routed, and received at the destination.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**IP Address**](https://en.wikipedia.org/wiki/IP\_address)
 
@@ -26,7 +26,7 @@ When users use the Internet, they need to complete [KYC](https://en.wikipedia.or
 
 Due to the complex structure of the Internet, routing determines how two computers find each other and find a suitable best path. The [router](https://en.wikipedia.org/wiki/Router\_\(computing\)) is the key facility that determines how to forward an [IP data packet](https://en.wikipedia.org/wiki/Network\_packet) and connect to each other on the Internet. IP packets can pass through multiple routes, but there is no guarantee that they will arrive or that they will arrive in order.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Virtual tunnel concept**
 
