@@ -1,2 +1,0 @@
-# Layer Minus Protocol
-

@@ -29,7 +29,7 @@ CONET divides the traditional proxy server into two parts.
 
 **Fragmented Traffic**
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * The CONET proxy server can take the 42 different types of requests that make up the Google homepage, use different nodes within the CONET network to simultaneously proxy the client's requests to Google.
 * From Google's perspective, it cannot imagine 42 requests from different IP addresses originating from the same browser page. From the viewpoint of network monitors, the client appears to be accessing multiple different websites, disrupting the big data analysis of the monitors. The proxy services provided by participants within CONET also cannot piece together the client's network access traces.

@@ -6,7 +6,7 @@ description: Computers communicate by uniquely identifying TCP/IP addresses
 
 TCP/IP provides a point-to-point connection mechanism that standardizes how data should be encapsulated, addressed, transmitted, routed, and received at the destination.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**IP Address**](https://en.wikipedia.org/wiki/IP\_address)
 
