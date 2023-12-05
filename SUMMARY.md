@@ -40,5 +40,5 @@
 * [Web2 Bridging](web2-bridging.md)
 * [User Case](user-case.md)
 * [CONET Power Card](conet-power-card.md)
-* [Road map](road-map.md)
+* [Road Map](road-map.md)
 * [Resource](resource.md)

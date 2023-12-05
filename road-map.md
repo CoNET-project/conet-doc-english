@@ -1,6 +1,4 @@
-# Road map
-
-
+# Road Map
 
 <details>
 
@@ -77,6 +75,3 @@ Research and Development Achievements:
 Initiation of the reward mechanism for participants in the fourth phase of nodes.
 
 </details>
-
-
-
