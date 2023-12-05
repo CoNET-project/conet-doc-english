@@ -2,7 +2,7 @@
 description: Challenging the technical limits of data transmission
 ---
 
-# Web2 bridging
+# WEB2 BRIDGING
 
 **Introduction**
 

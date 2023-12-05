@@ -8,4 +8,4 @@
     * [PRIVATE SECTOR ANALYSIS OF PERSONAL INFORMATION](welcome-to-conet/background/private-sector-analysis-of-personal-information.md)
     * [NEW BUSINESS OPPORTUNITIES](welcome-to-conet/background/new-business-opportunities/README.md)
       * [AI](welcome-to-conet/background/new-business-opportunities/ai.md)
-  * [Web2 bridging](welcome-to-conet/web2-bridging.md)
+  * [WEB2 BRIDGING](welcome-to-conet/web2-bridging.md)
