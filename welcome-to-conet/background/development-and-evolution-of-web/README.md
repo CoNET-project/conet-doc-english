@@ -1,0 +1,3 @@
+# Development and Evolution of WEB
+
+People nowadays can hardly imagine life without the internet. However, the internet and the World Wide Web are not synonymous; they are two independent yet related entities. The internet is simply a global computer network, connecting millions of computers worldwide to form a network that allows any computer to communicate with any other computer globally. In contrast, the World Wide Web is a method of accessing information through internet media. It displays web pages in a browser, and information is interconnected through hyperlinks, including text, graphics, audio, and video.
