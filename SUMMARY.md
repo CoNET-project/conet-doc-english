@@ -33,6 +33,7 @@
 * [Token Economic Model](token-economic-model/README.md)
   * [$CONET](token-economic-model/usdconet.md)
   * [CONET Consensus Protocol](token-economic-model/conet-consensus-protocol.md)
+  * [Incentives](token-economic-model/incentives.md)
 * [Web2 Bridging](web2-bridging.md)
 * [User Case](user-case.md)
 * [Resource](resource.md)
