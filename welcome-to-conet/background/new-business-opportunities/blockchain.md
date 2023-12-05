@@ -1,0 +1,7 @@
+# BLOCKCHAIN
+
+Many people may misunderstand that the current blockchain provides excellent privacy protection for users, but in reality, blockchain does not inherently offer privacy. While not all cryptocurrencies are purely financial instruments and can be used for various purposes within the growing web3 ecosystem, blockchain users do engage in transactions with digital assets on the blockchain. The current architecture of most existing blockchains relies on transaction transparency to promote trust, but this default transparency and lack of privacy increase the risk of consumer harm by allowing other blockchain users to view the transaction history and holdings of any wallet holder.
+
+The anonymity feature of blockchain is a protection for malicious actors, but it can be easily overcome. Analytical practices show that heuristic analysis of user interactions can be used to penetrate this privacy, allowing anyone transacting with a wallet holder to effectively see their entire financial situation. Moreover, websites where blockchain users interact still belong to the web2 realm, and authorizing transactions or signing digital wallets will also leak IP addresses and identity information.
+
+Therefore, despite blockchain providing assistance in tracking illicit financial activities, the transparency of transactions makes users of blockchain technology particularly susceptible to fraud, social engineering, asset theft by malicious actors, and risks associated with disclosing sensitive financial data to third parties.
