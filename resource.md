@@ -26,3 +26,12 @@ CONET Official Website
 
 **Official Twitter Account**
 
+[https://twitter.com/CoNET\_Network](https://twitter.com/CoNET\_Network)
+
+**Discord**
+
+[https://discord.com/invite/Xff4V8u5](https://discord.com/invite/Xff4V8u5)
+
+**Telegram**
+
+[https://t.me/CONETPROJECT](https://t.me/CONETPROJECT)
