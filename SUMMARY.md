@@ -39,4 +39,5 @@
   * [Incentives](token-economic-model/incentives.md)
 * [Web2 Bridging](web2-bridging.md)
 * [User Case](user-case.md)
+* [CONET Power Card](conet-power-card.md)
 * [Resource](resource.md)
