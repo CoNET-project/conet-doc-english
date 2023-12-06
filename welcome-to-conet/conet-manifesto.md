@@ -54,4 +54,18 @@ When everything is anchored, freedom becomes the most precious gift. Crypto beli
 
 The era needs us. For a better encrypted world, for a better human world. Let us inherit the free will of crypto pioneers, ride on this ship of encrypted Theseus, even though the journey may encounter technical undercurrents, navigate through algorithmic perils, pass through hacker reefs, witness human good and evil, we will eventually traverse the noisy voices and sail towards the other side of the kingdom of freedom and justice.
 
-If a decentralized social structure is the ultimate form of humanity, let everything change from ourselves. Let our efforts be imprinted on the monument of the era, recorded in the scrolls of history, and let future generations sing our praises! We are gunpowder, igniters; we transcend morality, transcend good and evil, we are the catalysts of change. We must reclaim our rights and defend our freedom
+If a decentralized social structure is the ultimate form of humanity, let everything change from ourselves. Let our efforts be imprinted on the monument of the era, recorded in the scrolls of history, and let future generations sing our praises! We are gunpowder, igniters; we transcend morality, transcend good and evil, we are the catalysts of change. We must reclaim our rights and defend our freedom.
+
+**We aim to create a world like this:**
+
+**A decentralized world that operates in a fair and orderly manner on its own.**&#x20;
+
+**A world that returns to the primal essence of humanity, a world of freedom and conscious living.**&#x20;
+
+**A world recognized, respected, and integrated by the traditional world.**&#x20;
+
+When the liberating sunshine bathes the world, we can fully enjoy the freedom and liberation brought by blockchain technology without worrying about fraud or baseless regulatory accusations. The beautiful world envisioned by the pioneers of cryptography can truly be realized.
+
+Bitcoin is beautiful because it is free, pure, and decentralized. Once this monster is unleashed, no one can stop it or prohibit it. It will continue to operate. CONET is no different – once it is unleashed, it cannot be stopped.
+
+The future is unordered. The world of the future is one dominated by non-linearity and asymmetry. If you see what I see, if you feel what I feel, if you are willing to pursue like I do, then I implore you to stand by my side, join us, don't wait, but together let's build a new world of freedom and purity.
