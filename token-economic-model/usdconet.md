@@ -1,19 +1,16 @@
 # $CONET
 
-CONET is a community-driven, fully open-source project that operates without central governance, aligning with the spirit of Bitcoin's decentralization. The token is fairly distributed, with no pre-mining, and the team holds no allocation. Each buy and sell transaction incurs a 3% tax, serving as ongoing funding for technical development.
+CoNET is a fully open-source project driven by the community, adhering to the principles of Bitcoin. The total supply of $CONET is 1 billion.
 
-Key aspects of $CONET ERC20 token in the CONET project's development:
+The $CONET token will play the following key roles in the development of the CONET project:
 
-1. **Fair Distribution:** The token adheres to the ERC20 standard and is issued on the Ethereum mainnet, with a total supply of 10 billion $CONET. There is no pre-sale or VC holding, ensuring fair distribution.
-2. **Rewarding Miners:** In the initial stage, the community is attracted through a dual proof-of-time and proof-of-bandwidth mechanism, incentivizing more participants.
-3. **Mining Staking Accelerates Rewards:** Participants providing liquidity mining in the initial stage accumulate power for the CONET community to thrive.
-4. **CONET Network Usage Fee:** Users employing CONET network's dAPPs pay for the decentralized, open, zero-trust, secure, and private network communication experience provided by the CONET network's underlying protocol.
-5. **Miner Revenue:** As CONET matures and more third-party dAPPs join, increased network traffic enhances miner revenue. Miner incentives gradually decrease as CONET enters a virtuous cycle.
-6. **Protocol Governance:** Decentralized community drives and manages the development and deterioration of the CONET protocol.
+1. **Mining Rewards:** In the initial phase, a dual proof-of-time and proof-of-bandwidth mechanism is implemented to establish community engagement and attract more participants.
+2. **Mining Staking Accelerated Rewards:** In the initial stage, liquidity mining provided by participants contributes to the accumulation of power for the CONET community takeoff.
+3. **CONET Network Usage Fees:** Users accessing dApps on the CONET network pay fees to gain a decentralized, zero-trust, secure, and reliable open network communication experience provided by the underlying protocol.
+4. **Mining Revenue:** As CONET matures and more third-party dApps join, increased network traffic leads to a significant increase in mining revenue. Mining rewards gradually decrease, and the CONET flywheel enters a positive cycle.
+5. **Protocol Governance:** The development of the CONET protocol is driven and managed by a decentralized community.
 
-CONET's unique financing contract during the launch phase, coupled with the 3% tax imposed during transactions on the Uniswap WETH/CONET trading pair on DEX, enables the CONET project to obtain funding for its mission without relying heavily on institutional or venture capital holdings. These funds are crucial for the development of enterprise-level applications, software, hardware, education, and market promotion for CONET. The fees will be reduced starting from the second quarter of 2024 and eventually eliminated as CONET matures and stabilizes. There are no transfer fees for CONET tokens.
-
-Linear releases for the team, early investors, and the foundation prevent sudden and large-scale token unlocks, ensuring a controlled and steady release of tokens over time.
+Unlocking Periods: Early investors have an unlocking period of 18 months with linear release, while the core team's unlocking period is 3 years.
 
 **Token Distribution**
 

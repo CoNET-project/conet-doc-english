@@ -2,24 +2,40 @@
 
 **Mining Economic Model:**
 
-* **Total Issuance:**
-  * 6 billion tokens are allocated for mining rewards, accounting for 60% of the total issuance.
-* **Mining Output:**
-  * Mining output occurs in cycles, with each cycle lasting 180 days.
-  * Output decreases by 20% at the end of each cycle.
-  * In the first cycle, mining output represents 18% of the total output, i.e., 1.08 billion, and decreases accordingly in subsequent cycles.
-* **Boost Mechanism:**
-  * Boost is an acceleration mechanism for mining, achieved by staking a significant amount.
-  * Three different computing power mechanisms:
-    * Regular Mining Coefficient: 1
-    * Boost: 6
-    * BoostLP: 12
-* **Three Mining Pools:**
-  * Regular Mining Pool: 5% of daily output is distributed as mining rewards through shared bandwidth.
-  * Boost Pool: Users need to stake for 90 days to activate the Boost acceleration mechanism, increasing their mining rate. During the staking period, the staked amount cannot be withdrawn. The more staked, the higher the proportion of mining rewards. Boost Pool represents 30% of daily output.
-  * BoostLP Pool: Double rewards. Encourages users to stake for higher output. By injecting liquidity and locking it for 120 days, users gain BoostLP mining acceleration. Similar to Boost Pool, the staked amount cannot be withdrawn during the staking period, and the more staked, the higher the proportion of mining rewards. BoostLP Pool represents 60% of daily output.
-* **Compute Power Ranking Rewards:**
-  * 5% of daily output is rewarded to the top 100 contributors in the global computing power rankings. Calculated based on the highest quantity of mined blocks among the top 100 wallet addresses.
-* **Invitation Mechanism:**
-  * Direct Referrer: Participants receive a unique referral link upon joining the mining pool. If someone joins mining through this link, the referrer earns an additional 20% bonus based on the referred person's earnings (this is an extra bonus and does not affect the referrer's income). This continues as long as the referred users keep earning points, leading to a continuous growth in bonuses.
-  * Sub-referrer: When a referred person (sub-referrer) brings in additional users, both the referred person and the direct referrer receive a 20% additional bonus based on the sub-referrer's earnings. Additionally, the direct referrer earns 10% of the sub-referrer's rewards (extra bonus, not affecting the sub-referrer's income). This situation continues indefinitely as long as the sub-referrer earns extra points, benefiting both the direct referrer and the sub-referrer.
+Mining output occurs in cycles, with each cycle lasting 180 days, and a 20% reduction in output per cycle. In the first cycle, mining accounts for 18% of the total output, and this percentage decreases with each subsequent cycle.
+
+**Boost Mechanism:**
+
+Boost is an acceleration mechanism for mining. Users can boost their mining speed by staking a sufficient amount of tokens. There are different types of mining pools:
+
+1. **Regular Mining Pool:** Shares mining rewards based on shared bandwidth, constituting 5% of the daily output.
+2. **Boost Pool:** Users need to stake for 90 days to activate the Boost acceleration mechanism, accelerating their mining rate. The Boost pool constitutes 30% of the daily output.
+3. **BoostLP Pool:** Provides double rewards. Users stake to gain higher output, and by injecting liquidity and locking LP for 90 days, they receive BoostLP mining acceleration. The BoostLP pool constitutes 58% of the daily output.
+
+**Compute Power Mechanism Coefficients:**
+
+* Regular Mining Coefficient: 1
+* Boost Seed Node Coefficient: 6
+* Boost Super Node Coefficient: 12
+* Boost Liquidity LP Coefficient: 24
+
+These coefficients indicate that, at the same time, under the condition of 1 $CONET for regular mining, a Boost Seed Node with a coefficient of 6 could produce 6 times the output, equivalent to 6 $CONET.
+
+**Factors Affecting Mining Output Weight:**
+
+* Online duration
+* Number of referrals
+* Mining method
+
+**Compute Power Ranking Rewards:**
+
+5% of the daily output is rewarded to the top 100 contributors in the network's compute power ranking. Calculated based on the wallets with the most mining in the entire network.
+
+**Lucky Blocks:**
+
+2% of the total daily mining output is dedicated to "Lucky Blocks," providing participants with an exciting opportunity to share additional earnings.
+
+**Referral Mechanism:**
+
+* Direct Referrals: Participants receive a unique referral link. If someone joins mining using the link, the referrer gets a 20% bonus of the referred person's earnings continuously.
+* Secondary Referrals: When the referred person brings in others (secondary referrals), both the referred person and the secondary referrer receive a 20% bonus on the secondary referral's earnings. The direct referrer also gets a 10% bonus on the secondary referrer's earnings. This continues indefinitely, benefiting the direct referrer as long as the secondary referrer earns additional points.
