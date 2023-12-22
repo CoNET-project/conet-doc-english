@@ -25,7 +25,15 @@ CONET divides the traditional proxy server into two parts.
 1. **Client Local Part:** Receives network access traffic from the client, then packages it into CONET network communication packets and sends it to the CONET privacy network, linking to the proxy server using a wallet address.
 2. **Remote Part:** Receives client requests entering through wallet addresses. The proxy server uses its own IP address to replace the client in accessing the target website, and the website's response is sent back to the client.
 
-**CONET Proxy Service Features**
+**CONET Proxy Features**
+
+**Privacy Priority:** Privacy-enhancing tools like VPNs, which change the client's IP address, have a significant privacy loophole when it comes to centralized VPN providers who have access to all customer traffic activities. While the communication content is encrypted and secure, details such as data activity timestamps and communication data packet sizes can be used to infer a lot about the "description" of many customers. Despite the availability of various decentralized VPNs or tools like the Tor network, the communication efficiency and reliability often fail to meet the increasing needs of users.
+
+CONET Proxy utilizes the innovative Layer Minus protocol developed by CONET. This protocol achieves complete no IP address at the network communication layer, ensuring full anonymity for the client-side. This makes it technically impossible for the proxy server to reconstruct the client's IP address from the sent request.
+
+As an industry-first, clients can simultaneously use multiple proxy services with CONET Proxy to disperse traffic, creating fragmented communication. This significantly increases the difficulty of reconstructing the client's network communication fingerprint, making it exponentially more challenging.
+
+The traffic obfuscation technology of the Layer Minus protocol further enhances CONET Proxy's capabilities, allowing client-side traffic to don an invisible cloak, operating silently and reliable.
 
 **Fragmented Traffic**
 
