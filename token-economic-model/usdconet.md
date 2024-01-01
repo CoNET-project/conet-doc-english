@@ -14,4 +14,4 @@ Unlocking Periods: Early investors have an unlocking period of 18 months with li
 
 **Token Distribution**
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
