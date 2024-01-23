@@ -4,7 +4,7 @@ description: Portable smart hardware
 
 # CONET Power Card
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 CONET provides a credit card-sized, ultra-thin personal WiFi smart hardware device, measuring only as thick as six credit cards combined. This device can be conveniently placed in a wallet, offering users seamless network transmission and robust privacy protection within its network coverage radius. Additionally, it can serve as a CONET onboarding device provider, allowing users to earn additional income.
 

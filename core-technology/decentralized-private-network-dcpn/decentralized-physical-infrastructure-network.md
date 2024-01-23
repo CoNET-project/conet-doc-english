@@ -9,7 +9,7 @@ The CONET infrastructure consists of the following key components:
 5. **Blockchain Ledger Infrastructure**: This ensures the recording of events, device registrations, task statistics, and fair distribution of points on the CONET Layer Minus network through public transparency and tamper-resistant mechanisms.
 6. **DePIN Flywheel**: The DePIN flywheel represents the momentum and growth of the decentralized private network, reflecting the continuous evolution and advancement of the CONET infrastructure.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The project progress is outlined as follows:
 
