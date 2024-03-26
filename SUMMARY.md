@@ -33,6 +33,8 @@
   * [Decentralized Private Network DCPN](core-technology/decentralized-private-network-dcpn/README.md)
     * [Decentralized Physical Infrastructure Network](core-technology/decentralized-private-network-dcpn/decentralized-physical-infrastructure-network.md)
     * [Features](core-technology/decentralized-private-network-dcpn/features.md)
+  * [CONET Platform](core-technology/conet-platform/README.md)
+    * [CONET Wallet](core-technology/conet-platform/conet-wallet.md)
 * [Token Economic Model](token-economic-model/README.md)
   * [$CONET](token-economic-model/usdconet.md)
   * [CONET Consensus Protocol](token-economic-model/conet-consensus-protocol.md)
