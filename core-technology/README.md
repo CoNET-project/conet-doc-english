@@ -1,6 +1,6 @@
 # Core Technology
 
-**Layer Minus point-to-point network communication protocol.**
+**Layer Minus Wallet-to-Wallet network communication protocol.**
 
 **CONET Decentralized Private Network DCPN.**
 
