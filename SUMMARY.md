@@ -44,3 +44,4 @@
 * [CONET Power Card](conet-power-card.md)
 * [Road Map](road-map.md)
 * [Resource](resource.md)
+* [Guardian Plan](guardian-plan.md)
