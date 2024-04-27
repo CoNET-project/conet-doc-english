@@ -43,7 +43,7 @@
 * [User Case](user-case.md)
 * [Guardian Plan](guardian-plan.md)
 * [CONET Power Card](conet-power-card.md)
+* [CoNET Mining](conet-mining.md)
 * [Road Map](road-map.md)
 * [Resource](resource.md)
 * [F.A.Q.](f.a.q..md)
-* [CoNET Mining](conet-mining.md)
