@@ -46,3 +46,4 @@
 * [Road Map](road-map.md)
 * [Resource](resource.md)
 * [F.A.Q.](f.a.q..md)
+* [CoNET Mining](conet-mining.md)
