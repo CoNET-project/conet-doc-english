@@ -41,7 +41,7 @@
   * [Incentives](token-economic-model/incentives.md)
 * [Web2 Bridging](web2-bridging.md)
 * [User Case](user-case.md)
+* [Guardian Plan](guardian-plan.md)
 * [CONET Power Card](conet-power-card.md)
 * [Road Map](road-map.md)
 * [Resource](resource.md)
-* [Guardian Plan](guardian-plan.md)
