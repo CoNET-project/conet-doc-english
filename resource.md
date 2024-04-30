@@ -4,7 +4,7 @@ Layer Minus Protocol Technology White Paper
 
 [https://github.com/CoNET-project/white-paper-eng/blob/main/.gitbook/assets/CONET%20Project%20v4.pdf](https://github.com/CoNET-project/white-paper-eng/blob/main/.gitbook/assets/CONET%20Project%20v4.pdf)
 
-CONET Official Website
+**CONET Official Website**
 
 [https://conet.network/](https://conet.network/)
 
@@ -21,6 +21,10 @@ CONET Official Website
 [https://github.com/CoNET-project](https://github.com/CoNET-project)
 
 [https://bitbucket.org/matheus\_moraes\_pinheiro/conet/src/main/](https://bitbucket.org/matheus\_moraes\_pinheiro/conet/src/main/)
+
+**API Server**
+
+[https://api.conet.network](https://api.conet.network)
 
 **CONET Platform API Document**
 
