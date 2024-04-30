@@ -8,9 +8,13 @@ CONET Official Website
 
 [https://conet.network/](https://conet.network/)
 
-**CONET Testnet Explorer**
+**CONET Holesky Explorer**
 
 [https://scan.conet.network/](https://scan.conet.network/)
+
+**CONET Holesky RPC**
+
+[https://rpc.conet.network](https://rpc.conet.network)
 
 **CONET Code Library**
 
@@ -34,10 +38,6 @@ CONET Official Website
 
 [https://twitter.com/CoNET\_Network](https://twitter.com/CoNET\_Network)
 
-**Discord**
-
-[https://discord.com/invite/Xff4V8u5](https://discord.com/invite/Xff4V8u5)
-
 **Telegram**
 
-[https://t.me/CONETPROJECT](https://t.me/CONETPROJECT)
+[https://t.me/conet\_network](https://t.me/conet\_network)
