@@ -43,7 +43,7 @@ Release of the first version of the whitepaper, research outcomes&#x20;
 
 • Launch of CONET platform V1 (based on CONET mainnet  ERC-20 token - $CNTP)&#x20;
 
-• Launch of CONET platform V2 (based on BLAST L2 mainnet  ERC-20 token - $CNTP)&#x20;
+• Launch of CONET platform V2 (based on CONET HOLESKY testnet  ERC-20 token - $CNTP)&#x20;
 
 • Introduction of the "Guardian Plan," establishing the initial  physical infrastructure of CONET with 15,000 cloud nodes  serving as backbone node&#x20;
 
