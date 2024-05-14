@@ -26,7 +26,7 @@ Guardians play a critical role in:
    * Receive dividends from the operations of the CoNET network.
 3. **Exclusive Access and Rewards**:
    * Use the DCPN (Decentralized Private Network) for free.
-   * Receive the largest individual Blast Official airdrop in history, with a 50% distribution rate.
+   * Receive the largest individual CoNET Official airdrop in history.
    * Benefit from continuous sales of the Power Card, enhancing your investment.
 4. **Hardware and Communication**:
    * Receive a CoNET PowerCard, a portable smart hardware miner.
