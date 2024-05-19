@@ -50,6 +50,28 @@ Guardians are incentivized to expand the community by referring new members:
 * **Smart Contract Assurance**: Execute a repurchase agreement through a smart contract at 100% of the purchase price in USDT assets after one year, securing your initial investment.
 * **CNTP Points System**: Earn points every 12 seconds based on your level of contribution to the network, with a Booster Accelerate rate that increases the more you invest.
 
+\
+**Repurchase: Your investment is secured**\
+You can execute a repurchase agreement through a smart contract at 100% of the purchase price in USDT assets after one-year successful IGO purchase.
+
+\
+_**-Repurchase Lock-up Period.**_\
+Within one year from the data of purchase of the "Guardian Plan."
+
+_**-Repurchase early access.**_\
+If the CoNET token ($CONET) is listed on a major exchange like Coinbase, Binance, OKX, or BitGet during the repurchase lock-up period. Guardians will have a 7-day grace period to determine if they wish to participate in the repurchase program.\
+\
+\
+_**What if I haven't activated the repurchase?**_\
+Failure to activate your repurchase option within the designated window will result in automatic waiver of this right.
+
+_**What happens if I activate the repurchase?**_\
+Activating the repurchase option will permanently remove all associated Guardian rights. However, any CoNET tokens ($CONET) you've exchanged for referral points ($CNTP), Blast airdrop tokens, or CoNET portable hardware mining machines will remain yours.
+
+_**What will happen to my tokens and PowerCard?**_\
+Super Node Points ($CNTP) converted from CoNET tokens ($CONET) will be destroyed. Super node privileges will revert back to the CoNET project. Portable hardware mining machines remain usable for Proof-of-Stake (POS) mining. However, their hash rate will be adjusted to match that of standard users.\
+\
+\
 **Conclusion**
 
 Being a Guardian is not only about managing a Supernode; it's about being a part of a community dedicated to revolutionizing the Internet. It's a significant commitment with substantial benefits and the potential to reshape how we interact with digital infrastructure. Join us in this revolutionary endeavor to build a truly secure and decentralized Internet.
