@@ -10,7 +10,7 @@ Bridge Proxy is a commercial application based on the decentralized, zero-trust,
 
 Proxy services are commonly used on the Internet to help clients conceal their real IP addresses. They work by accessing websites on behalf of the client through a proxy server, offering a way to maintain privacy. Many applications natively support the use of proxy servers, such as the Firefox browser, Telegram, gaming apps, and more. Traditional proxy servers are typically remote, and clients access them over the network.
 
-<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Proxy Service Structure**
 
@@ -37,12 +37,12 @@ The traffic obfuscation technology of the Layer Minus protocol further enhances 
 
 **Fragmented Traffic**
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * The CONET proxy server can take the 42 different types of requests that make up the Google homepage, use different nodes within the CONET network to simultaneously proxy the client's requests to Google.
 * From Google's perspective, it cannot imagine 42 requests from different IP addresses originating from the same browser page. From the viewpoint of network monitors, the client appears to be accessing multiple different websites, disrupting the big data analysis of the monitors. The proxy services provided by participants within CONET also cannot piece together the client's network access traces.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 1.  **Traffic Obfuscation Technology:**
 
