@@ -71,24 +71,24 @@ Phase 2 begins with CNTP points being converted to $CONET tokens. For more info 
 
 **The economy in phase 2 consists of the following flow :**\
 \
-b= PU purchase $CONETon a Dex or Cex.Y\
-m= PU burn their $CONET to receive $cCoNET via the Conet native bridge and vice versa to change their $cCoNET to $CONET I= PU use $cCoNET for Dapp transactions on the Conet Network to pay for services.
+PU purchase $CONETon a Dex or Cex.Y\
+PU burn their $CONET to receive $cCoNET via the Conet native bridge and vice versa to change their $cCoNET to $CONET I= PU use $cCoNET for Dapp transactions on the Conet Network to pay for services.
 
 **Miners**
 
-k= M lock up their $cCoNET to purchase Guardian nodes to take part in mining. In return they receive $cCoNET as a reward.
+M lock up their $cCoNET to purchase Guardian nodes to take part in mining. In return they receive $cCoNET as a reward.
 
 **Relay Node**
 
-9= Relay Node Participants register, act as relay nodes, and connect to the CoNET network to prove the online time of their devices.
+Relay Node Participants register, act as relay nodes, and connect to the CoNET network to prove the online time of their devices.
 
 **Stakers**
 
-g= S can stake $cCONET to boost their mining rewards and to receive $cCONET rewards.
+S can stake $cCONET to boost their mining rewards and to receive $cCONET rewards.
 
 **AlK**
 
-= M, S, and PU all receive access to take part in governance on the CoNET network and ecosystem.          
+M, S, and PU all receive access to take part in governance on the CoNET network and ecosystem.          
 
 
 
