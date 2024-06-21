@@ -10,26 +10,27 @@ The total supply of $CONET is 1 billion.\
 
 ### Utilities
 
-The CoNET economy includes two tokens: $CONET and $cCONET. $CONET is built on a chain to be announced and $cCONET is built on CoNET Network. The only way to mint $cCONET is to burn your $CONET. $cCONET acts as the central currency of the CoNET Network
+The CoNET economy includes two tokens: $CONET and $cCONET. $CONET is built on a chain to be announced and $cCONET is built on CoNET Network. The only way to mint $cCONET is to burn your $CONET. $cCONET acts as the central currency of the CoNET Network\
 
- $CONET can be :\
-\-tradable on exchanges\
-\-converted to $cCoNET via burn and vice versa via burn and mint mechanism
 
-/ $cCONET is used for Dapp transactions\
- Users accessing dApps on the CoNET network pay fees to gain a decentralised, zero-trust, secure, and reliable open network communication experience provided by the underlying protocol
+ $CONET can be :\
+Tradable on exchanges\
+Converted to $cCoNET via burn and vice versa via burn and mint mechanism
 
- $cCONET is used for protocol governance.#\
- The development of the CoNET protocol is driven and managed by a decentralised community
+&#x20;$cCONET is used for Dapp transactions\
+Users accessing dApps on the CoNET network pay fees to gain a decentralised, zero-trust, secure, and reliable open network communication experience provided by the underlying protocol
 
-\- $cCONET is used for mining\
- In the initial phase, a dual proof-of-time and proof-of-bandwidth mechanism is implemented    to establish community engagement and attract more participants
+&#x20;$cCONET is used for protocol governance.#\
+The development of the CoNET protocol is driven and managed by a decentralised community
 
- $cCONET is used for staking\
- Users will be able to stake to receive rewards and to partake in governance
+&#x20;$cCONET is used for mining\
+In the initial phase, a dual proof-of-time and proof-of-bandwidth mechanism is implemented    to establish community engagement and attract more participants
+
+ $cCONET is used for staking\
+&#x20;Users will be able to stake to receive rewards and to partake in governance
 
  $cCONET is used as a reward mechanism\
- The $cCONET token will be used to reward ecosystem participants to drive demand.
+&#x20;The $cCONET token will be used to reward ecosystem participants to drive demand.
 
 \
 
