@@ -26,11 +26,11 @@ The development of the CoNET protocol is driven and managed by a decentralised c
 &#x20;$cCONET is used for mining\
 In the initial phase, a dual proof-of-time and proof-of-bandwidth mechanism is implemented    to establish community engagement and attract more participants
 
- $cCONET is used for staking\
-&#x20;Users will be able to stake to receive rewards and to partake in governance
+$cCONET is used for staking\
+Users will be able to stake to receive rewards and to partake in governance
 
- $cCONET is used as a reward mechanism\
-&#x20;The $cCONET token will be used to reward ecosystem participants to drive demand.
+&#x20;$cCONET is used as a reward mechanism\
+The $cCONET token will be used to reward ecosystem participants to drive demand.
 
 \
 
@@ -72,7 +72,7 @@ Phase 2 begins with CNTP points being converted to $CONET tokens. For more info 
 **The economy in phase 2 consists of the following flow :**\
 \
 b= PU purchase $CONETon a Dex or Cex.Y\
-m= PU burn their $CONET to receive $cCoNET via the Conet native bridge and vice versa to change their $cCoNET to $CONE6 I= PU use $cCoNET for Dapp transactions on the Conet Network to pay for services.
+m= PU burn their $CONET to receive $cCoNET via the Conet native bridge and vice versa to change their $cCoNET to $CONET I= PU use $cCoNET for Dapp transactions on the Conet Network to pay for services.
 
 **Miners**
 
