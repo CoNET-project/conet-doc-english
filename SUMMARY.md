@@ -35,6 +35,7 @@
   * [Silent Pass](web2-bridging/silent-pass.md)
 * [User Case](user-case.md)
 * [Guardian Plan](guardian-plan.md)
+* [Guardian Plan V2](guardian-plan-v2.md)
 * [CONET Power Card](conet-power-card.md)
 * [CoNET Mining](conet-mining.md)
 * [Road Map](road-map.md)
