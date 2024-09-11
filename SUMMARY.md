@@ -38,6 +38,8 @@
 * [Guardian Plan V2](guardian-plan-v2.md)
 * [CONET Power Card](conet-power-card.md)
 * [CoNET Mining](conet-mining.md)
+* [The CoNETian Miniapp](the-conetian-miniapp.md)
 * [Road Map](road-map.md)
+* [Ambassador Program   The Global Mission](ambassador-program-the-global-mission.md)
 * [Resource](resource.md)
 * [F.A.Q.](f.a.q..md)
