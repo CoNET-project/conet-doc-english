@@ -40,6 +40,5 @@
 * [CoNET Mining](conet-mining.md)
 * [The CoNETian Miniapp](the-conetian-miniapp.md)
 * [Road Map](road-map.md)
-* [Ambassador Program   The Global Mission](ambassador-program-the-global-mission.md)
 * [Resource](resource.md)
 * [F.A.Q.](f.a.q..md)
