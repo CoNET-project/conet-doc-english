@@ -37,7 +37,7 @@
 * [Guardian Plan](guardian-plan.md)
 * [Guardian Plan V2](guardian-plan-v2.md)
 * [CONET Power Card](conet-power-card.md)
-* [CoNET Mining](conet-mining.md)
+* [Community Incentive Program](community-incentive-program.md)
 * [The CoNETian Miniapp](the-conetian-miniapp.md)
 * [Road Map](road-map.md)
 * [Resource](resource.md)
