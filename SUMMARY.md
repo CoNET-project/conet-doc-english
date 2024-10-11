@@ -34,6 +34,7 @@
 * [Web2 Bridging](web2-bridging/README.md)
   * [Silent Pass](web2-bridging/silent-pass.md)
 * [User Case](user-case.md)
+* [Nodes](nodes.md)
 * [Guardian Plan](guardian-plan.md)
 * [Guardian Plan V2](guardian-plan-v2.md)
 * [Community Incentive Program](community-incentive-program/README.md)
