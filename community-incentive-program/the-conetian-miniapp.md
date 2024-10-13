@@ -1,31 +1,31 @@
 # The CoNETian Miniapp
 
-### The CoNETian isn't just a game – it's your gateway to joining the revolutionary CoNET ecosystem.
+### The CoNETian Miniapp: Your Gateway to Decentralized Participation
 
-\
-We've developed this mining mini-game on Telegram and on Browser as an innovative way to let everyone participate in our decentralized network.
+The CoNETian isn’t just a game – it’s your access point to CoNET’s decentralized ecosystem. Built for both Telegram and Browser, this mini-game allows everyone, anywhere in the world, to join CoNET’s revolutionary network in a fun and easy way.
 
-**Why did we build this game?** \
-We created The CoNETian to make it easy for anyone, anywhere in the world, to join our project. \
-By playing this game, you’re not just having fun – you’re actively participating in a decentralized future.
+#### Why Did We Build The CoNETian?
 
-The CoNETian uses Blockchain technology for rewards distribution, emphasizing our commitment to decentralization.
+We created The CoNETian to offer an engaging and simple way for users to get involved in our decentralized project. By playing, you’re not just having fun—you’re actively contributing to the future of decentralization.\
+Blockchain-powered rewards are at the core of the game. As you play, you’re rewarded in $CNTP tokens through a decentralized system, highlighting our commitment to privacy, security, and decentralization.
 
-As you play,in this testnet phase, you’ll start mining and earning $CNTP. \
-We’re also introducing exciting features like box openings for bigger prizes and more interactive gameplay. \
-\
-This isn’t just about rewards – it’s about giving you a chance to be part of something bigger.
+#### Features:
 
+* Daily Claim: Players can claim daily prizes, and by completing missions every day, you unlock a special mystery prize every Sunday.
+* Daily Missions & Social Tasks: Complete missions to earn in-game rewards and complete social tasks with our partner projects for more prizes.
+* In-game Assets: You can collect and send in-game items like tickets, keys, skins, and $CNTP tokens to enhance your gameplay.
+* API for Social Tasks: We’ve developed our own decentralized API for social tasks, ensuring that everything stays private, secure, and transparent while interacting with partner ecosystems.
 
+#### Earn While You Play
 
-\
-**What’s Next?** \
-\
-Soon, this game will allow players to mine in our DePIN network simply by sharing bandwidth, all while enjoying the gameplay.\
-As we prepare to launch our main-net, The CoNETian will evolve, allowing users to contribute to and benefit from our decentralized infrastructure just by playing and sharing their resources from their phone.
+In the testnet phase, players are already mining and earning $CNTP tokens. This miniapp also offers box openings, interactive gameplay, and exciting rewards that keep evolving. It’s not just about earning; it's about being part of a decentralized movement.
 
-No complicated setups – just your mobile device and the game.
+#### What’s Coming Next?
 
+As we approach the mainnet launch, The CoNETian will become a gateway to our DePIN network. Players will not only mine tokens but also contribute to the decentralized infrastructure by sharing bandwidth, CPU, and storage resources—all while playing.
 
+Through social tasks, gameplay, and decentralized mining, you'll help grow and secure the CoNET network—all from your phone or browser.
 
-Welcome to The CoNETian and the new era of online participation!
+#### Welcome to the Future of Decentralized Fun!
+
+With The CoNETian, everyone can participate in the decentralized economy, contributing to and benefiting from CoNET’s mission to build a secure and private internet.
