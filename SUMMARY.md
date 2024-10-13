@@ -28,7 +28,7 @@
   * [CONET Platform](core-technology/conet-platform/README.md)
     * [CONET Wallet](core-technology/conet-platform/conet-wallet.md)
 * [Token Economic Model](token-economic-model/README.md)
-  * [$CONET and $cCONET](token-economic-model/usdconet-and-usdcconet.md)
+  * [$CONET and ETH Token Model](token-economic-model/usdconet-and-eth-token-model.md)
   * [CONET Consensus Protocol](token-economic-model/conet-consensus-protocol.md)
   * [Incentives](token-economic-model/incentives.md)
 * [Web2 Bridging](web2-bridging/README.md)
