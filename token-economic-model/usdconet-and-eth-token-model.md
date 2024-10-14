@@ -59,7 +59,7 @@ Users will:
 
 * Purchase $CONET on decentralized (DEX) or centralized exchanges (CEX).
 * Use $CONET to pay for dApp services, such as Silent Pass VPN and other decentralized services offered on the CoNET Network.
-* Earn $CONET and ETH: Validators will receive $CONET for contributing to the network and ETH as transaction fees within the Arbitrum Orbit ecosystem.
+* Node operators will receive $CONET for contributing computing resource to the network. Validators will receive both $CONET for contributing to the network and ETH as transaction fees with the Arbitrum Orbit ecosystem.
 
 ***
 
