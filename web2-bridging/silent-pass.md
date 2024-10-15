@@ -2,6 +2,7 @@
 
 ## A Decentralized VPN Redefining Privacy
 
+Silent Pass is our Proxy solution for Pc and using Google extension for automatic settings.\
 Silent Pass sets a new standard in online privacy and security by leveraging a fully decentralized architecture, unlike traditional VPNs that depend on centralized servers. Built on CoNET’s Layer Minus Protocol, Silent Pass provides a more robust and privacy-focused internet experience. Here's how Silent Pass is fundamentally different:
 
 ### Key Features of Silent Pass:

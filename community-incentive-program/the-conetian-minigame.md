@@ -1,6 +1,6 @@
-# The CoNETian Miniapp
+# The CoNETian Minigame
 
-### The CoNETian Miniapp: Your Gateway to Decentralized Participation
+### The CoNETian Minigame: Your Gateway to Decentralized Participation
 
 The CoNETian isn’t just a game – it’s your access point to CoNET’s decentralized ecosystem. Built for both Telegram and Browser, this mini-game allows everyone, anywhere in the world, to join CoNET’s revolutionary network in a fun and easy way.
 
@@ -18,7 +18,7 @@ Blockchain-powered rewards are at the core of the game. As you play, you’re re
 
 #### Earn While You Play
 
-In the testnet phase, players are already mining and earning $CNTP tokens. This miniapp also offers box openings, interactive gameplay, and exciting rewards that keep evolving. It’s not just about earning; it's about being part of a decentralized movement.
+In the testnet phase, players are already mining and earning $CNTP tokens. This minigame also offers box openings, interactive gameplay, and exciting rewards that keep evolving. It’s not just about earning; it's about being part of a decentralized movement.
 
 #### What’s Coming Next?
 
