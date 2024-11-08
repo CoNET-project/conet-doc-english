@@ -1,4 +1,8 @@
-# $CONET and ETH Token Model
+---
+description: $CONET and ETH Token Model
+---
+
+# Utilities and Economic
 
 
 
@@ -73,4 +77,4 @@ Privacy-First Ecosystem: CoNET continues to prioritize privacy, offering decentr
 
 
 
-## **Token Distribution TBA**
+## Token Generation Event TBA&#x20;

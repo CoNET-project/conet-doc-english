@@ -1,7 +1,3 @@
----
-description: CONET Economics
----
-
 # Token Economic Model
 
 CONET stands out from the crowd due to several key factors. Similar to the primary innovation of the Bitcoin protocol, which introduced a new economic theory and its application, CONET incorporates innovative economic incentives to form alliances with "miners," achieving consensus and creating a novel, simple, and effective network security mechanism.
