@@ -52,7 +52,7 @@ $CONET is the native token for the CoNET ecosystem, serving as the key utility f
 
 Phase 1 focuses on community onboarding through CNTP Points as a reward mechanism for early participants. In this phase, users are introduced to the CoNET ecosystem through referral programs and mining pools.
 
-* Users can earn CNTP Points by participating in the ecosystem, such as purchasing Guardian Nodes.
+* Users can earn CNTP Points by participating in the ecosystem, such as purchasing Guardian Plan.
 * CNTP Points will later be converted into $CONET tokens upon mainnet launch.
 
 #### Phase 2: Transition to $CONET and ETH
@@ -63,7 +63,14 @@ Users will:
 
 * Purchase $CONET on decentralized (DEX) or centralized exchanges (CEX).
 * Use $CONET to pay for dApp services, such as Silent Pass VPN and other decentralized services offered on the CoNET Network.
-* Node operators will receive $CONET for contributing computing resource to the network. Validators will receive both $CONET for contributing to the network and ETH as transaction fees with the Arbitrum Orbit ecosystem.
+*   **Node Operators**\
+    Full and Partial Nodes will earn **$CONET** rewards for contributing computing resources—such as bandwidth, storage, and processing power—to the network. \
+    These nodes help support CoNET’s infrastructure and maintain network stability.
+
+
+* **Validators**\
+  Validators receive **ETH** as transaction fees through the Arbitrum Orbit ecosystem. \
+  By verifying transactions, Validators play a crucial role in securing the network and ensuring its integrity.m.
 
 ***
 
