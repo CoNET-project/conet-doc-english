@@ -7,7 +7,7 @@ The CoNETian Plan offers an exclusive opportunity to join CoNET’s ecosystem ea
 ### What’s Included in the CoNETian Plan?
 
 • NFT Ownership\
-Gain a CoNETian NFT, priced at $100, which grants you exclusive access to CoNET’s community, rewards, and growth opportunities.
+Gain a CoNETian NFT, priced at 100 USDT , which grants you exclusive access to CoNET’s community, rewards, and growth opportunities.
 
 • $CONET Tokens\
 Each CoNETian NFT includes 1,000 $CONET tokens at a special pre-sale price, with a release schedule:
@@ -49,9 +49,14 @@ By operating nodes, CoNETian members earn $CONET tokens through mining, receivin
 • Airdrop Rewards\
 Early supporters benefit from airdrops, gaining extra $CONET tokens to boost their holdings and support the network’s expansion.
 
+### **Exclusive Benefits of the CoNETian Plan:**
+
+* **One-Year $CONET Compensation for Silent Pass Usage**
+* CoNETian plan holders will receive **compensation in $CONET** equivalent to the amount they would have spent on Silent Pass usage over one year. This effectively grants them **free access to Silent Pass**, CoNET's decentralized VPN, while earning back the equivalent cost in $CONET. This unique benefit allows CoNETian members to enjoy secure, private browsing with Silent Pass at no cost, maximizing both security and earning potential.
+
 ### Cost of the CoNETian Plan
 
-• NFT Cost: $100\
+• NFT Cost: 100 USDT\
 This initial investment includes 1,000 $CONET tokens (with a 25% release at TGE and 6-month linear vesting), exclusive perks, and all the benefits listed above, providing an affordable entry into the CoNET ecosystem.
 
 The CoNETian Plan is your gateway to supporting the future of decentralized internet infrastructure, where you can earn rewards, support network growth, and become part of a sustainable, community-led ecosystem.

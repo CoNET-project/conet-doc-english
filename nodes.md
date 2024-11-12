@@ -15,7 +15,9 @@ Validator Nodes are responsible for verifying transactions on the CoNET DePIN ne
 Validator Nodes earn rewards in ETH, as CoNET is built on the Arbitrum Orbit blockchain. This provides a daily income stream for validator operators, paid through transaction fees on the network.
 
 **Node Cap:**\
-Validator Nodes are limited to 20,000, ensuring that early adopters gain privileged positions within the CoNET ecosystem. To reward our early investors, this number will remain fixed for at least five years.
+Validator Nodes are limited to 20,000, ensuring that early adopters gain privileged positions within the CoNET ecosystem.&#x20;
+
+To reward Guardians , our early investors, this number will remain fixed for at least five years.
 
 **Requirements:**
 
@@ -40,7 +42,14 @@ Full Nodes earn higher rewards due to their critical role in maintaining network
 
 **Requirements:**
 
-* **Staking Required:** Full Nodes must stake a certain amount of $CONET tokens to participate.
+* **Staking Required:** Full Nodes must stake a certain amount of $CONET ( 10.000 )tokens to participate.
+* **Mandatory Cloud Node**: Full nodes require a cloud node service subscription at $5 per month to ensure consistent internet quality and performance 24/7 without need of being online(.
+
+**Minimum System Requirements for Partial and Full Nodes:**
+
+* **2 Core CPU**
+* **2 GB RAM**
+* **10 GB Storage**
 
 ***
 
@@ -52,6 +61,8 @@ Partial Nodes contribute to the network by sharing CPU and bandwidth without nee
 **Earnings:**\
 Partial Nodes earn rewards for their contributions, which include validating social tasks and performing SaaS (Software as a Service) validations.
 
+**Earning**: Rewards are earned for each epoch while connected to mining ( 12 seconds )
+
 **Responsibilities:**
 
 * Validate social tasks such as verifying the completion of social tasks across various platforms using CoNET's decentralized API.
@@ -60,9 +71,31 @@ Partial Nodes earn rewards for their contributions, which include validating soc
 
 **Requirements:**
 
-* **Staking:** Partial Nodes require a smaller amount of $CONET tokens staked compared to Full Nodes, making them accessible to a wider range of participants.
+* **Staking:** Partial Nodes require a smaller amount of $CONET ( 5.000 ) tokens staked compared to Full Nodes, making them accessible to a wider range of participants.
+* **Cloud Node Option**: Partial nodes may choose to purchase a cloud node service for $5 per month to enhance connectivity and stability and for mining 24/7 without need of being online(optional).
+
+**Minimum System Requirements for Partial and Full Nodes:**
+
+* **2 Core CPU**
+* **2 GB RAM**
+* **10 GB Storage**
 
 ***
+
+### 4. Browser Mining: Accessible Participation through Browser-Based Mining
+
+**Role:**\
+Browser Mining allows users to participate without specialized hardware, using only a web browser. This option is available for users mining through CoNET’s minigame (on browser or Telegram) or on third-party applications that support CoNET mining like FX168 app or website where users are mining while using this platform.
+
+**Earnings:**\
+Browser Miners earn $CONET rewards based on their mining activity, making it an accessible entry point for new users.
+
+**Requirements:**\
+No staking or device requirements; simply use a supported browser to start mining.
+
+***
+
+####
 
 #### Contributing to CoNET's DePIN Network
 
