@@ -82,7 +82,7 @@ Partial Nodes earn rewards for their contributions, which include validating soc
 
 ***
 
-### 4. Browser Mining: Accessible Participation through Browser-Based Mining
+### 4. Free Nodes: Accessible Participation through Browser-Based Mining
 
 **Role:**\
 Browser Mining allows users to participate without specialized hardware, using only a web browser. This option is available for users mining through CoNET’s minigame (on browser or Telegram) or on third-party applications that support CoNET mining like FX168 app or website where users are mining while using this platform.
