@@ -54,5 +54,4 @@
 * Development of enterprise-level Web2-to-Web3 onboarding SDK
 * Achieving network usage of 1,000,000 users on the CoNET network
 * Establishment of the DePIN Alliance, bringing together major public chains, AI, RWA, and GameFi to collectively build the new decentralized internet
-* Integration with Arbitrum Orbit, establishing CoNET as a DePIN project on Arbitrum and using ETH for transaction fees
 

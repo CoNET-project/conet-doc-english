@@ -2,7 +2,7 @@
 
 ## CoNET Nodes: Get Involved and Earn with Our DePIN Network
 
-As CoNET prepares to launch our decentralized physical infrastructure network (DePIN) on the Arbitrum Orbit, we're offering a unique opportunity for users to participate and earn rewards by operating nodes that power our ecosystem. By becoming a part of our node infrastructure, you can help secure our network, contribute resources, and earn daily rewards in return. CoNET will feature three types of nodes, each with specific roles, requirements, and earning potential.
+As CoNET prepares to launch our decentralized physical infrastructure network (DePIN) , we're offering a unique opportunity for users to participate and earn rewards by operating nodes that power our ecosystem. By becoming a part of our node infrastructure, you can help secure our network, contribute resources, and earn daily rewards in return. CoNET will feature three types of nodes, each with specific roles, requirements, and earning potential.
 
 ***
 
@@ -12,7 +12,7 @@ As CoNET prepares to launch our decentralized physical infrastructure network (D
 Validator Nodes are responsible for verifying transactions on the CoNET DePIN network. As validators, these nodes are crucial to maintaining the security and integrity of the decentralized infrastructure.
 
 **Earnings:**\
-Validator Nodes earn rewards in ETH, as CoNET is built on the Arbitrum Orbit blockchain. This provides a daily income stream for validator operators, paid through transaction fees on the network.
+Validator Nodes earn rewards in ETH, on CoNET DePIN blockchain. This provides a daily income stream for validator operators, paid through transaction fees on the network.
 
 **Node Cap:**\
 Validator Nodes are limited to 20,000, ensuring that early adopters gain privileged positions within the CoNET ecosystem.&#x20;
