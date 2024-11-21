@@ -27,6 +27,7 @@
     * [Features](core-technology/decentralized-private-network-dcpn/features.md)
   * [CONET Platform](core-technology/conet-platform/README.md)
     * [CONET Wallet](core-technology/conet-platform/conet-wallet.md)
+* [CoNET DePIN Blockchain](conet-depin-blockchain.md)
 * [Community-Driven Vision for Web3](community-driven-vision-for-web3.md)
 * [Tokenomics](tokenomics/README.md)
   * [Token Economic Model](tokenomics/token-economic-model.md)
