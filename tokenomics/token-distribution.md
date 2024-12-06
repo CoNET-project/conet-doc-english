@@ -15,7 +15,7 @@ This section outlines CoNET's token allocation across key areas, ensuring resour
 
 
 * 3% – Conetian: Reserved for early-stage investors to onboard and support the foundational growth of CoNET.
-* 20% – Guardians: Dedicated to supporting nodes through a lockdrop. These tokens will not be tradable, ensuring long-term commitment.
+* 20% – Guardians: Dedicated to supporting nodes through a lockdrop for 5 years and 10% will be distributed to Guardians. These tokens will not be tradable, ensuring long-term commitment.
 * 10% – Team Allocation: Reserved to incentivize and reward team members for their contributions to CoNET’s success.
 * 41% – Miner Rewards: Allocated to incentivize Miners and Relay Node participants, rewarding activity and supporting the ecosystem’s sustainability.
 * 12% – CoNET Labs: To be used for ongoing development and to incentivize dAPP builders, fueling growth and innovation.

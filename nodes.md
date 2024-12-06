@@ -17,12 +17,12 @@ Validator Nodes earn rewards in ETH, on CoNET DePIN blockchain. This provides a 
 **Node Cap:**\
 Validator Nodes are limited to 20,000, ensuring that early adopters gain privileged positions within the CoNET ecosystem.&#x20;
 
-To reward Guardians , our early investors, this number will remain fixed for at least five years.
+To reward Guardians , our early investors, this number will remain fixed for at least five years, then it could be open for everyone by staking following ETH rules.
 
 **Requirements:**
 
 * **Guardian Plan Holders:** Purchasers of the Guardian Plan have an exclusive right to become Validator Nodes without the need for staking.
-* **Staking Requirement:** For others wishing to become validators, a stake of 20,000 $CONET tokens is required.
+* **Staking Requirement:** For others wishing to become validators when this number will be open, will be  required staking of ETH following ETH Validators rules so staking 32 ETH.
 
 ***
 
