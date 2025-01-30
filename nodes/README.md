@@ -2,10 +2,10 @@
 
 ## How CoNET Nodes Work, Consensus & Staking
 
-CoNET operates on a hybrid consensus mechanism combining Proof of Work (PoW), Proof of Staking (PoS), and Proof of Time (PoT) to create a scalable, decentralized, and privacy-first network.
+CoNET operates on a hybrid consensus mechanism combining Proof of Work (PoW), Proof of Staking (PoS), and Proof of upTime (PoT) to create a scalable, decentralized, and privacy-first network.
 
 * Proof of Staking (PoS): Users stake $CONET or $ETH to operate nodes, ensuring economic security and long-term commitment.
-* Proof of Time (PoT): Active participation and uptime contribute to additional rewards, incentivizing users to keep their nodes online.
+* Proof of upTime (PoT): Active participation and uptime contribute to additional rewards, incentivizing users to keep their nodes online.
 * • Proof of Work (PoW): Nodes contribute computational resources to validate transactions and secure the network. In CoNET, PoW goes beyond transaction validation—it also ensures nodes remain online and connected, verifies social tasks, and supports decentralized applications by providing essential computational power.
 
 By integrating Layer Minus Protocol, CoNET ensures a wallet-based validation system, eliminating IP tracking and reinforcing true decentralization and anonymity.
@@ -73,7 +73,7 @@ How It Works
 
 &#x20;  • Powering the Network: Full Nodes provide bandwidth, CPU, storage, and SaaS to support decentralized applications, ensuring fast and secure transactions.
 
-* Enabling Privacy & Security: They play a key role in data communication, relaying Layer Minus Protocol by replacing IP addresses with wallet-based routing for enhanced privacy.
+* Enabling Privacy & Security: They play a key role in data transmission and data communication, relaying Layer Minus Protocol by replacing IP addresses with wallet-based routing for enhanced privacy.
 * DEX Integration: Full Nodes act as agents for order matching on the CoNET Decentralized Exchange (DEX), helping to facilitate seamless transactions.
 
 Earnings
