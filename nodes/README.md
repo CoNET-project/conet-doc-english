@@ -129,8 +129,23 @@ Requirements
 
 * No staking required—exclusive for Silent Pass Premium Users.
 * Runs on a web browser—no additional hardware required.
+* Online: The longer it stays connected, the more $CONET it earns.
 
-Online: The longer it stays connected, the more $CONET it earns.
+
+
+
+
+## Staking in CoNET: Earn While Supporting the Network
+
+## &#x20;Staking for Node Operation
+
+| Node Type      | Staking Requirement                 | Minimum Lock Period                |
+| -------------- | ----------------------------------- | ---------------------------------- |
+| Validator Node | 3.2 $ETH                            | No lock period                     |
+| Full Node      | $500 - 5,000 $CONET (presale price) | 1 year                             |
+| Partial Node   | $100 - 1,000 $CONET (presale price) | 180 days                           |
+| Light Node     | No staking required                 | Exclusive to Silent Pass VPN Users |
+| Free Node      | No staking requiresd                | No Lock period                     |
 
 
 
