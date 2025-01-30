@@ -62,7 +62,7 @@ _**-Repurchase early access.**_\
 If the CoNET token ($CONET) is listed on a major exchange like Coinbase, Binance, OKX, or BitGet during the repurchase lock-up period. Guardians will have a 7-day grace period to determine if they wish to participate in the repurchase program.\
 \
 \
-_**What if I haven't activated the repurchase?**_\
+&#xNAN;_**What if I haven't activated the repurchase?**_\
 Failure to activate your repurchase option within the designated window will result in automatic waiver of this right.
 
 _**What happens if I activate the repurchase?**_\
