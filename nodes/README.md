@@ -71,9 +71,9 @@ For Stakers (Delegating to Validator Nodes):
 
 How It Works
 
-&#x20;  • Powering the Network: Full Nodes provide bandwidth, CPU, storage, and SaaS to support decentralized applications, ensuring fast and secure transactions.
+&#x20;  • Powering the Network: Full Nodes provide bandwidth, CPU, storage, and SaaS to support decentralized applications, ensuring fast and secure transactions and playing a key role in data transmission and data communication
 
-* Enabling Privacy & Security: They play a key role in data transmission and data communication, relaying Layer Minus Protocol by replacing IP addresses with wallet-based routing for enhanced privacy.
+* Enabling Privacy & Security: Ensure data transmission and data communication, relaying Layer Minus Protocol by replacing IP addresses with wallet-based routing for enhanced privacy.
 * DEX Integration: Full Nodes act as agents for order matching on the CoNET Decentralized Exchange (DEX), helping to facilitate seamless transactions.
 
 Earnings
