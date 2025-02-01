@@ -8,7 +8,7 @@ This section outlines CoNET's token allocation across key areas, ensuring resour
 
 
 
-<figure><img src="../.gitbook/assets/photo_2025-01-31_22-03-16.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo_2025-02-01_08-01-24.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Token Allocation Breakdown:
 
@@ -23,11 +23,4 @@ This section outlines CoNET's token allocation across key areas, ensuring resour
 
 
 
-### **Emissions**
-
-Token emissions refer to the release of tokens from the treasury into the circulating supply. Emissions schedules are important for understanding potential selling pressure, especially from fundraising rounds, as these often introduce tokens that may be sold when they become available. \
-However, not all token tranches are sold immediately upon unlocking. \
-\
-For example, tokens allocated for marketing, ecosystem development, and similar categories may be unlocked but strategically held for future use.
-
-## Token Generation Event TBA
+### More informations about Emissions and Miners Rewards Distribution to be announced soon
