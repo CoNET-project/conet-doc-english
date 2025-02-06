@@ -51,16 +51,25 @@ No Staking Required & Priority Access to Higher Rewards
 
 * CoNETian NFT holders qualify for future airdrops.
 
-### Free Mining for Everyone
+### Free Mining for Everyone  &#x20;
 
-✅ Light Nodes (Silent Pass Premium Users) and Free Nodes
+✅ Light Nodes (Exclusive to Silent Pass Annual Users)
 
-* Free-to-mine using only a browser—no staking required.
-* Earn $CONET daily with 12% ROI.
+* Silent Pass Annual Users can run Light Node without staking during the validity period.&#x20;
+* Annual Standard Users can run 1 Light Node; Annual Premium Users can run 5 light nodes&#x20;
+* Runs directly from a web browser—no technical setup needed!
+* Earn $CONET daily with annualized ROI up to 12%.&#x20;
+
+&#x20;    -Each Node has an annualized return rate of 2.4%.\
+&#x20;    -Running multiple Light Nodes accumulates the earnings, with a up to 12% annual ROI.
 
 ✅ Mainnet Mining Begins!
 
-* Earn real $CONET on CoNET’s DePIN blockchain.
+* Earn real $CONET on CoNET’s DePIN network.
+* Online: The longer it stays connected, the more $CONET it earns.
+
+\
+
 
 ###
 

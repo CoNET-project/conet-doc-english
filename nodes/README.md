@@ -117,18 +117,25 @@ Requirements
 
 &#x20;How It Works:
 
-* Light Nodes require no staking and are exclusive to Silent Pass VPN Premium Users.
+* Light Nodes require no staking and are exclusive to Silent Pass VPN Premium Annual Users.
 * They contribute to Proof of Work, Proof of Connection, and Proof of Time, supporting CoNET’s decentralized network.
 * Runs directly from a web browser—no technical setup needed!
 
+How to Become a Light Node
+
+* Silent Pass Annual Standard User → Automatically receive ONE Light Node without staking.
+* Silent Pass Annual Premium User → Automatically receive FIVE Light Nodes without staking.
+
 &#x20;Earnings:
 
-* Earn $CONET with an annual ROI of 12% (subject to adjustment).
+* Annual Standard User earn $CONET with an annual ROI of 2.4%&#x20;
+* Annual Premium User can run 5 Light Nodes simultaneously, earn $CONET with a total annual ROI of 12%
+* The base earnings of each light node are $CONET tokens which equivalent to $100 USDT,  with actual earnings adjusted according to the price fluctuations of $CONET tokens.
 
 &#x20;Requirements:
 
-* No staking required—exclusive for Silent Pass Premium Users.
-* Runs on a web browser—no additional hardware required.
+* No staking required, locked for 1 year.
+* Runs light Node on a web browser on PC or laptop—no additional hardware required.
 * Online: The longer it stays connected, the more $CONET it earns.
 
 
