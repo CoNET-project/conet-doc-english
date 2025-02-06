@@ -12,8 +12,7 @@ Gain a CoNETian NFT, priced at 100 USDT , which grants you exclusive access to C
 • $CONET Tokens\
 Each CoNETian NFT includes 1,000 $CONET tokens at a special pre-sale price, with a release schedule:
 
-* 25% of tokens released at TGE (Token Generation Event)
-* Remaining tokens vested linearly over 6 months
+* 100% of tokens released at TGE (Token Generation Event)
 *   Discounted Power Card
 
     Enjoy a 20% discount on the Power Card, boosting your earning potential and mining rewards.
@@ -57,6 +56,6 @@ Early supporters benefit from airdrops, gaining extra $CONET tokens to boost the
 ### Cost of the CoNETian Plan
 
 • NFT Cost: 100 USDT\
-This initial investment includes 1,000 $CONET tokens (with a 25% release at TGE and 6-month linear vesting), exclusive perks, and all the benefits listed above, providing an affordable entry into the CoNET ecosystem.
+This initial investment includes 1,000 $CONET tokens (with a 100% release at TGE), exclusive perks, and all the benefits listed above, providing an affordable entry into the CoNET ecosystem.
 
 The CoNETian Plan is your gateway to supporting the future of decentralized internet infrastructure, where you can earn rewards, support network growth, and become part of a sustainable, community-led ecosystem.
