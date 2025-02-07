@@ -57,15 +57,13 @@ Each share earns: 5 ETH ÷ 4.125 = 1.2121 ETH per share
 
 Requirements
 
-For Node Operators (Running a Validator Node):
+For the **first year**, all **Validator Nodes will be operated by CoNET** to ensure network stability. **Guardians and ETH stakers** will still earn their share of **ETH rewards**, but without running their own nodes.
 
-* Guardian NFT Holders.
-* Mandatory Cloud Node Service for 24/7 uptime.
-* Hardware: 4-core CPU, 16GB RAM, storage based on network growth.
+✅ **ETH Rewards** – Guardians & stakers still receive ETH.\
+✅ **No Hardware or Cloud Subscription Required.**\
+✅ **Future Transition** – Validators will open to participants after Year 1.
 
-For Stakers (Delegating to Validator Nodes):
-
-* No hardware or cloud service required—simply delegate ETH to an existing Validator Node and earn rewards proportionally.
+This approach guarantees a **smooth and secure launch** while rewarding early supporters.
 
 ### Full Nodes: Powering the DePIN Network
 
