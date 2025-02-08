@@ -14,6 +14,7 @@
   * [CONET Manifesto](welcome-to-conet/conet-manifesto.md)
   * [CONET Philosophy](welcome-to-conet/conet-philosophy.md)
 * [Core Technology](core-technology/README.md)
+  * [How CoNET Works: Decentralized, Private, and Secure](core-technology/how-conet-works-decentralized-private-and-secure.md)
   * [Wallet-to-Wallet encrypted network communication protocol](core-technology/wallet-to-wallet-encrypted-network-communication-protocol/README.md)
     * [Internet Protocol](core-technology/wallet-to-wallet-encrypted-network-communication-protocol/internet-protocol/README.md)
       * [TCP/IP Protocol](core-technology/wallet-to-wallet-encrypted-network-communication-protocol/internet-protocol/tcp-ip-protocol.md)
