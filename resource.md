@@ -1,12 +1,16 @@
 # Resource
 
-Layer Minus Protocol Technology White Paper
+**Layer Minus Protocol Technology White Paper**
 
 [https://github.com/CoNET-project/white-paper-eng/blob/main/.gitbook/assets/CONET%20Project%20v4.pdf](https://github.com/CoNET-project/white-paper-eng/blob/main/.gitbook/assets/CONET%20Project%20v4.pdf)
 
 **CONET Official Website**
 
-[https://conet.network/](https://conet.network/)
+[**https://conet.network/**](https://conet.network/)
+
+**CoNET Platform**
+
+[**https://platform.conet.network/**](https://platform.conet.network/)
 
 **CONET Holesky Explorer**
 
@@ -20,7 +24,7 @@ Layer Minus Protocol Technology White Paper
 
 [https://github.com/CoNET-project](https://github.com/CoNET-project)
 
-[https://bitbucket.org/matheus\_moraes\_pinheiro/conet/src/main/](https://bitbucket.org/matheus\_moraes\_pinheiro/conet/src/main/)
+[https://bitbucket.org/matheus\_moraes\_pinheiro/conet/src/main/](https://bitbucket.org/matheus_moraes_pinheiro/conet/src/main/)
 
 **API Server**
 
@@ -38,10 +42,10 @@ Layer Minus Protocol Technology White Paper
 
 [https://conet.medium.com/](https://conet.medium.com/)
 
-**Official Twitter Account**
+**Twitter**&#x20;
 
-[https://twitter.com/CoNET\_Network](https://twitter.com/CoNET\_Network)
+[https://twitter.com/CoNET\_Network](https://twitter.com/CoNET_Network)
 
 **Telegram**
 
-[https://t.me/conet\_network](https://t.me/conet\_network)
+[**https://t.me/conet\_network**](https://t.me/conet_network)
