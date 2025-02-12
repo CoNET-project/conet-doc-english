@@ -14,6 +14,7 @@ In today’s digital world, centralized VPNs expose users to data tracking, cens
 * **Borderless Access** – Bypass regional restrictions with seamless global connectivity.
 * **Decentralized Architecture** – No single point of failure, ensuring privacy protection.
 * **No Registration Required** – Start using Silent Pass without email, phone number, or personal data.
+* **Open Source -**  [https://github.com/CoNET-project/SilentPass-iOS](https://github.com/CoNET-project/SilentPass-iOS)
 
 
 
