@@ -129,4 +129,10 @@ Silent Pass follows a true zero-log policy, ensuring no user data is stored, pro
 
 ### **Start Using Silent Pass Today!**
 
+Download Silent Pass Desktop from Github: [https://github.com/CoNET-project/seguro-platform/releases/tag/0.0.1](https://github.com/CoNET-project/seguro-platform/releases/tag/0.0.1)
+
+Download Silent Pass from Apple Store: [https://apps.apple.com/ca/app/silent-pass-vpn/id6740261324](https://apps.apple.com/ca/app/silent-pass-vpn/id6740261324)
+
+
+
 ***
