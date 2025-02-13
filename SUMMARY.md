@@ -27,6 +27,7 @@
     * [CONET Wallet](core-technology/conet-platform/conet-wallet.md)
   * [CONET Power Card](core-technology/conet-power-card.md)
 * [CoNET DePIN Blockchain](conet-depin-blockchain.md)
+* [Staking](staking.md)
 * [Nodes](nodes/README.md)
   * [Node Benefits for Guardians and CoNETian NFT](nodes/node-benefits-for-guardians-and-conetian-nft.md)
 * [Silent Pass Proxy/VPN](silent-pass-proxy-vpn/README.md)
