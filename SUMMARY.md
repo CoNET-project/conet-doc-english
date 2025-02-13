@@ -33,6 +33,7 @@
 * [Silent Pass Proxy/VPN](silent-pass-proxy-vpn/README.md)
   * [VPN vs Proxy](silent-pass-proxy-vpn/vpn-vs-proxy.md)
   * [B2B and B2C Solution](silent-pass-proxy-vpn/b2b-and-b2c-solution.md)
+* [RPC](rpc.md)
 * [Tokenomics](tokenomics/README.md)
   * [Token Economic Model](tokenomics/token-economic-model.md)
   * [Utilities and Economic](tokenomics/utilities-and-economic.md)
