@@ -49,7 +49,4 @@
   * [The CoNETian Minigame](community-incentive-program/the-conetian-minigame.md)
 * [Road Map](road-map.md)
 * [Resource](resource.md)
-
-## Group 1
-
-* [CoNET Uniswap v4](group-1/conet-uniswap-v4.md)
+* [CoNET DePIN Uniswap v4 Deployments](conet-depin-uniswap-v4-deployments.md)
