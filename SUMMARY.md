@@ -50,3 +50,4 @@
 * [Road Map](road-map.md)
 * [Resource](resource.md)
 * [CoNET DePIN Uniswap v4 Deployments](conet-depin-uniswap-v4-deployments.md)
+* [CoNET Decentralized Bridge](conet-decentralized-bridge.md)
